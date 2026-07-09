@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я EnterToInfoM 👋</h1>
+<h1 align="center">Hi, I'm EnterToInfoM 👋</h1>
 
 <h3 align="center">Full-Stack Developer • Telegram Bots & WebApps • Backend Architecture</h3>
 
@@ -12,16 +12,16 @@
 
 ---
 
-### 🚀 Обо мне
+### 🚀 About Me
 
-- 🔭 Разрабатываю веб-приложения, Telegram-ботов и Telegram WebApps
-- ⚙️ Backend-архитектура и REST API
-- 🧠 Автоматизация процессов и интеграции
-- 🌱 Постоянно изучаю новое в разработке
+- 🔭 Building web applications, Telegram bots, and Telegram WebApps
+- ⚙️ Backend architecture and REST API development
+- 🧠 Process automation and integrations
+- 🌱 Always learning something new in development
 
 ---
 
-### ⚡ Технологии
+### ⚡ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,cpp,react,html,css,git,github,docker,linux&perline=6" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 Статистика GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=entertoinfom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -50,7 +50,7 @@
 
 ---
 
-### 🎯 Сейчас в фокусе
+### 🎯 Current Focus
 
 ```js
 const currentFocus = {
@@ -63,25 +63,25 @@ const currentFocus = {
 
 ---
 
-### 📌 Проекты
+### 📌 Projects
 
 <!--
-  Замените ссылки/описания на свои реальные репозитории.
-  Можно также настроить автоматические Pinned Repositories прямо на странице профиля GitHub.
+  Replace the links/descriptions below with your actual repositories.
+  You can also set up automatic Pinned Repositories directly on your GitHub profile page.
 -->
 
-- 🤖 **[Название проекта](https://github.com/entertoinfom/repo-name)** — краткое описание бота/приложения
-- 🌐 **[Название проекта](https://github.com/entertoinfom/repo-name)** — краткое описание
+- 🤖 **[Project Name](https://github.com/entertoinfom/repo-name)** — short description of the bot/app
+- 🌐 **[Project Name](https://github.com/entertoinfom/repo-name)** — short description
 
 ---
 
-### 📫 Связаться со мной
+### 📫 Contact Me
 
 <p align="left">
-  <a href="https://t.me/ВАШ_НИК" target="_blank">
+  <a href="https://t.me/YOUR_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://ваш-сайт.ru" target="_blank">
+  <a href="https://your-site.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
