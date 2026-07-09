@@ -1,122 +1,61 @@
 <div align="center">
 
-# ENTERTOINFOM
+# 👋 Hey, I'm EnterToInfoM
 
-```bash
-$ whoami
+### Full-Stack Developer
 
-EnterToInfoM
+Building modern web applications, Telegram bots and scalable backend solutions.
 
-$ status
+<br>
 
-Online
-
-$ role
-
-Full-Stack Developer
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Web+Applications;Telegram+Bots+%26+WebApps;Backend+Development;REST+API;Always+Building+Something+New" />
 
 </div>
 
 ---
 
-## ~/about
+## 🚀 About Me
 
-```bash
-$ cat about.txt
+* Full-Stack Development
+* Telegram Bots & Telegram WebApps
+* Backend Architecture
+* REST API Development
+* Automation Solutions
 
-• Web Applications
-• Telegram Bots
-• Telegram WebApps
-• Backend Development
-• REST APIs
-• Automation Solutions
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,postgres,mysql,docker,linux,git,github" />
+</p>
+
+---
+
+## 📊 Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=entertoinfom&show_icons=true&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=entertoinfom&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```ts
+const currentFocus = {
+  frontend: ["React", "Next.js"],
+  backend: ["Node.js", "NestJS"],
+  database: ["PostgreSQL", "MySQL"],
+  tools: ["Docker", "Linux"],
+};
 ```
 
 ---
 
-## ~/stack
-
-```bash
-$ ls tech-stack
-
-HTML
-CSS
-JavaScript
-TypeScript
-React
-Next.js
-Node.js
-NestJS
-PostgreSQL
-MySQL
-Docker
-Linux
-Git
-GitHub
-```
-
----
-
-## ~/currently-working-on
-
-```bash
-$ ps aux
-
-▶ Web Applications
-▶ Telegram Ecosystem
-▶ Backend Services
-▶ Dashboard Systems
-▶ API Integration
-```
-
----
-
-## ~/github-stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=entertoinfom&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=entertoinfom&layout=compact&theme=github_dark&hide_border=true&bg_color=000000" />
-
-</div>
-
----
-
-## ~/contact
-
-```bash
-$ contact
+## 📫 Contact
 
 Telegram: @your_username
-
-GitHub: github.com/entertoinfom
-```
-
----
-
-## ~/system
-
-```bash
-$ neofetch
-
-User: EnterToInfoM
-OS: Linux
-Shell: bash
-Editor: VS Code
-Focus: Development
-Status: Building cool things...
-```
-
----
-
-<div align="center">
-
-```bash
-$ echo "Code. Build. Scale."
-
-Code. Build. Scale.
-```
 
 </div>
