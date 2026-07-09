@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm EnterToInfoM
 
-<!--
-**entertoinfom/entertoinfom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer
 
-Here are some ideas to get you started:
+🚀 Web Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Telegram Bots & WebApps
+
+⚙️ Backend Development
+
+🌐 Modern Digital Solutions
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,postgres,mysql,docker,linux,git,github" />
+</p>
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=entertoinfom&show_icons=true&theme=github_dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=entertoinfom&layout=compact&theme=github_dark)
